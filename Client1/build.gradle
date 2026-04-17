@@ -1,0 +1,38 @@
+plugins {
+    id 'application'
+    // J'ai retiré la ligne 'com.github.johnrengelman.shadow' qui cause le bug
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 1. Ton projet common
+    implementation project(':common')
+
+    // 2. MQTT
+    implementation 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5'
+
+    // 3. GSON
+    implementation 'com.google.code.gson:gson:2.11.0'
+
+    // 4. Guava
+    implementation 'com.google.guava:guava:33.0.0-jre'
+
+    // 5. Tests
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+application {
+    mainClass = 'QCM_client.Client'
+}
+
+run {
+    standardInput = System.in
+}

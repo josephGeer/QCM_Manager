@@ -1,0 +1,388 @@
+[
+  {
+    "qcmId": 1,
+    "titre": "Random QCM",
+    "questions": [
+      {
+        "numero": 1,
+        "enonce": "Question n°1 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 2,
+        "enonce": "Question n°2 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 3,
+        "enonce": "Question n°3 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 4,
+        "enonce": "Question n°4 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 5,
+        "enonce": "Question n°5 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 6,
+        "enonce": "Question n°6 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 7,
+        "enonce": "Question n°7 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 8,
+        "enonce": "Question n°8 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 9,
+        "enonce": "Question n°9 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 10,
+        "enonce": "Question n°10 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 11,
+        "enonce": "Question n°11 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 12,
+        "enonce": "Question n°12 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 13,
+        "enonce": "Question n°13 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 14,
+        "enonce": "Question n°14 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 15,
+        "enonce": "Question n°15 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 16,
+        "enonce": "Question n°16 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 17,
+        "enonce": "Question n°17 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 18,
+        "enonce": "Question n°18 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 19,
+        "enonce": "Question n°19 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      },
+      {
+        "numero": 20,
+        "enonce": "Question n°20 : Quelle est la bonne réponse ?",
+        "options": [
+          {
+            "idx": 1,
+            "text": "Réponse 1"
+          },
+          {
+            "idx": 2,
+            "text": "Réponse 2"
+          },
+          {
+            "idx": 3,
+            "text": "Réponse 3"
+          }
+        ],
+        "reponseCorrecte": 1
+      }
+    ]
+  }
+]
